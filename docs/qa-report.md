@@ -198,7 +198,10 @@ Kevin
 
 # 4. 待補充項目 (Pending Items)
 
-* Lighthouse 效能評分（待補充）
+無
+
+相關優化建議請參考：
+/docs/optimization.md
 
 ---
 
