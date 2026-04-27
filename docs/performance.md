@@ -40,23 +40,8 @@
 
 ## 4. Lighthouse 測試結果（首頁）
 
-### 4.1 Core Metrics
-
 | 指標 | 數值 | 評級 |
 |------|------|------|
 | First Contentful Paint (FCP) | 0.7 秒 | Excellent |
 | Largest Contentful Paint (LCP) | 0.7 秒 | Excellent |
 | Speed Index | 0.9 秒 | Excellent |
-
-整體評估：**載入速度非常優秀（< 1 秒）**
-
----
-
-### 4.2 Performance Visualization
-
-```text
-Performance Metrics
-
-FCP         | ████████████████████ 0.7s
-LCP         | ████████████████████ 0.7s
-Speed Index | ██████████████████   0.9s
