@@ -1,6 +1,6 @@
 # Performance Report
 
-## 🔥 Summary
+## Summary
 
 - **Lighthouse Performance: Excellent (<1s load time)**
 - 首屏渲染時間 < 1 秒，屬於高效能網站等級
@@ -44,11 +44,11 @@
 
 | 指標 | 數值 | 評級 |
 |------|------|------|
-| First Contentful Paint (FCP) | 0.7 秒 | ⭐ Excellent |
-| Largest Contentful Paint (LCP) | 0.7 秒 | ⭐ Excellent |
-| Speed Index | 0.9 秒 | ⭐ Excellent |
+| First Contentful Paint (FCP) | 0.7 秒 | Excellent |
+| Largest Contentful Paint (LCP) | 0.7 秒 | Excellent |
+| Speed Index | 0.9 秒 | Excellent |
 
-👉 整體評估：**載入速度非常優秀（< 1 秒）**
+整體評估：**載入速度非常優秀（< 1 秒）**
 
 ---
 
