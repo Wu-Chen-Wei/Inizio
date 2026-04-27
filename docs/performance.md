@@ -10,9 +10,7 @@
 
 ## 1. 測試目的 (Objective)
 
-本文件用於記錄音樂公司官方網站（https://inizio-corp.com/）之前端效能測試結果，  
-透過 Google Lighthouse 分析網站在效能、可存取性、最佳實踐與 SEO 等面向的表現，  
-並作為後續優化依據。
+本文件用於記錄音樂公司官方網站（https://inizio-corp.com/）之前端效能測試結果，透過 Google Lighthouse 分析網站在效能、可存取性、最佳實踐與 SEO 等面向的表現，並作為後續優化依據。
 
 ---
 
