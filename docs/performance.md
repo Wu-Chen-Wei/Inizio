@@ -21,7 +21,7 @@
 - 工具：Google Lighthouse  
 - 版本：13.0.2  
 - 測試方式：Chrome DevTools  
-- 報告格式：HTML 匯出報告  
+- 報告格式：lighthouse-report.html  
 - 測試網址：https://inizio-corp.com/
 
 ---
