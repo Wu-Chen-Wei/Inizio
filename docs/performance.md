@@ -2,7 +2,7 @@
 
 ## 總結 (Summary)
 
-- **Lighthouse Performance: Excellent (<1s load time)**
+- Lighthouse Performance: Excellent (<1s load time)
 - 首屏渲染時間 < 1 秒，屬於高效能網站等級
 - 使用者幾乎無感載入延遲
 
