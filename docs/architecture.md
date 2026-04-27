@@ -13,6 +13,7 @@
 ---
 
 ## 2. 網站整體架構（Site Map）
+```bash
 Home
 ├── About
 ├── Music Label
