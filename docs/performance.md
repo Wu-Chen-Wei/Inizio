@@ -1,11 +1,5 @@
 # 效能報告（Performance Report）
 
-## 總結 (Summary)
-
-- Lighthouse Performance: Excellent (<1s load time)
-- 核心效能指標（FCP、LCP、Speed Index）皆 < 1 秒，屬於高效能網站等級
-- 使用者幾乎無感載入延遲
-
 ---
 
 ## 1. 測試目的 (Objective)
@@ -64,3 +58,11 @@
 - 圖片格式優化（WebP / AVIF）
 - Lazy loading 非首屏資源
 - 字型載入優化（font-display）
+
+---
+
+## 總結 (Summary)
+
+- Lighthouse Performance: Excellent (<1s load time)
+- 核心效能指標（FCP、LCP、Speed Index）皆 < 1 秒，屬於高效能網站等級
+- 使用者幾乎無感載入延遲
