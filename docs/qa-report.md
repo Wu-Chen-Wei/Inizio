@@ -1,16 +1,8 @@
 # 測試報告（QA Report）
 
-## Project
-
-Inizio Corporation Website (Frontend Only)
-
-## Date
-
-2026-04-19
-
-## Tester
-
-Kevin
+**專案名稱：** 音樂公司官方網站 (僅前端)
+**更新日期：** 2026-04-19
+**測試人員：** Kevin  
 
 ---
 
