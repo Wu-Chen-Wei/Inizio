@@ -160,7 +160,7 @@ Kevin
 
 備註：
 - Best Practices 分數尚有優化空間，後續可針對安全性與資源載入策略進行進一步改善
-- 完整 Lighthouse 報告請參考 `/docs/lighthouse-report.html`
+- 完整 Lighthouse 報告請參考 `/docs/lighthouse-report.html` `/docs/lighthouse-report.pdf`
 
 ## 2.8 內容校對測試 (Content Verification Test)
 
