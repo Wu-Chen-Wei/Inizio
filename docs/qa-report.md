@@ -121,10 +121,6 @@ Kevin
 | Edge    | Pass |
 | Firefox | Pass |
 
-補充：
-
-* 字型、間距、按鈕樣式於各瀏覽器顯示一致
-
 ---
 
 ## 2.7 效能與載入測試 (Performance Test)
@@ -197,8 +193,6 @@ Kevin
 ---
 
 # 4. 待補充項目 (Pending Items)
-
-無
 
 相關優化建議請參考：
 `/docs/optimization.md`
