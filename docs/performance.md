@@ -55,6 +55,7 @@
 - Rendering pipeline 表現穩定
 - 首屏載入效率高
 - 使用者可在極短時間內看到完整內容
+- 判斷：本頁面效能已達 High Performance Web 標準。
 
 ---
 
