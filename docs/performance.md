@@ -18,7 +18,7 @@
 - 工具：Google Lighthouse  
 - 版本：13.0.2  
 - 測試方式：Chrome DevTools  
-- 詳細報告：`/docs/lighthouse-report.html`
+- 詳細報告：`/docs/lighthouse-report.html` `/docs/lighthouse-report.pdf`
 - 測試網址：https://inizio-corp.com/
 
 ---
