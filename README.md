@@ -1,4 +1,4 @@
-# Inizio Corp 音樂公司網站前端專案
+# Inizio Corp 音樂公司官方網站前端專案
 
 ## 專案簡介
 
