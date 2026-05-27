@@ -85,7 +85,7 @@ https://inizio-corp.com/
 
 Figma 檔案可參考：
 
-- [Figma 設計參考檔PDF](assets/wireframes/)
+- [Figma 設計參考檔 UI](assets/wireframes/)
 
 ## 畫面展示
 
