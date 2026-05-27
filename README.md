@@ -8,7 +8,7 @@
 
 ## 線上展示
 
-Demo: 請放上你的網站網址
+Demo: https://inizio-corp.com/
 
 ## 專案狀態
 
@@ -85,7 +85,7 @@ Demo: 請放上你的網站網址
 
 Figma 連結可參考：
 
-- [Figma 設計參考檔](assets/wireframes/figma-link.md)
+- [Figma 設計參考檔](assets/wireframes/)
 
 ## 畫面展示
 
@@ -106,41 +106,100 @@ Figma 連結可參考：
 ## 資料夾結構
 
 ```text
-inizio-corp-project/
-├── index.html
-├── about.html
-├── music-label.html
-├── artist.html
-├── service.html
-├── partner.html
-├── contact.html
-├── css/
-│   └── style.css
-├── assets/
-│   ├── images/
-│   ├── screenshots/
-│   │   ├── desktop/
-│   │   ├── tablet/
-│   │   └── mobile/
-│   └── wireframes/
-│       ├── homepage.png
-│       ├── about.png
-│       ├── structure.png
-│       └── figma-link.md
-├── docs/
-│   └── optimization.md
-└── README.md
+inizio/
+│
+├── assets/                        # 靜態資源
+│   │
+│   ├── fonts/                     # 字型資源
+│   │
+│   ├── images/                    # 網站圖片素材
+│   │
+│   └── screenshots/               # 專案畫面截圖
+│       │
+│       ├── desktop/               # Desktop 響應式截圖
+│       │   ├── about/
+│       │   ├── artist/
+│       │   ├── contact-us/
+│       │   ├── home/
+│       │   ├── music-label/
+│       │   ├── our-partner/
+│       │   └── service/
+│       │
+│       ├── tablet/                # Tablet 響應式截圖
+│       │   ├── about/
+│       │   ├── artist/
+│       │   ├── contact-us/
+│       │   ├── home/
+│       │   ├── music-label/
+│       │   ├── our-partner/
+│       │   └── service/
+│       │
+│       ├── mobile/                # Mobile 響應式截圖
+│       │   ├── about/
+│       │   ├── artist/
+│       │   ├── contact-us/
+│       │   ├── home/
+│       │   ├── music-label/
+│       │   ├── our-partner/
+│       │   └── service/
+│       │
+│       └── wireframes/            # Wireframe 設計稿
+│           ├── Desktop.pdf
+│           ├── Tablet.pdf
+│           └── Mobile.pdf
+│
+├── src/                           # 前端原始碼
+│   │
+│   ├── css/                       # CSS 樣式檔案
+│   │
+│   ├── javascript/                # JavaScript 功能腳本
+│   │
+│   └── html/                      # HTML 頁面
+│       │
+│       ├── about/
+│       │   ├── about-zh.html
+│       │   ├── about-eng.html
+│       │   └── about-jp.html
+│       │
+│       ├── artist/
+│       │   └── artist.html
+│       │
+│       ├── contact-us/
+│       │   └── contact-us.html
+│       │
+│       ├── home/
+│       │   ├── home-zh.html
+│       │   ├── home-eng.html
+│       │   └── home-jp.html
+│       │
+│       ├── music-label/
+│       │   ├── music-label-zh.html
+│       │   ├── music-label-eng.html
+│       │   └── music-label-jp.html
+│       │
+│       ├── our-partner/
+│       │   └── our-partner.html
+│       │
+│       └── service/
+│           ├── service-zh.html
+│           ├── service-eng.html
+│           └── service-jp.html
+│
+├── docs/                          # 專案文件
+│   ├── architecture.md            # 網站架構說明
+│   ├── design-concept.md          # 設計概念
+│   ├── optimization.md            # 優化紀錄
+│   ├── performance.md             # 效能分析
+│   ├── qa-report.md               # 測試報告
+│   ├── lighthouse-report.html     # Lighthouse HTML 報告
+│   └── lighthouse-report.pdf      # Lighthouse PDF 報告
+│
+└── README.md                      # 專案總說明
 ```
 
 ## 如何預覽專案
 
 此專案為由 WordPress 網站內容整理而成的靜態前端展示專案，可直接開啟 HTML 檔案進行預覽。
-
-```bash
-git clone GitHub 專案網址
-cd 專案資料夾
-```
-
 接著可直接開啟 `index.html`，或使用 VS Code 的 Live Server 擴充套件瀏覽專案。
 
 ## 專案優化紀錄
