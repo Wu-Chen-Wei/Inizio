@@ -288,7 +288,7 @@ inizio/
 | optimization.md | 網站優化紀錄 |
 | performance.md | 效能分析 |
 | qa-report.md | 測試與檢查報告 |
-| lighthouse-report | Lighthouse 效能報告 |
+| lighthouse-report.html / lighthouse-report.pdf | Lighthouse 效能報告 |
 
 ---
 
