@@ -8,7 +8,7 @@
 
 ## 線上展示
 
-Demo: https://inizio-corp.com/
+https://inizio-corp.com/
 
 ## 專案狀態
 
