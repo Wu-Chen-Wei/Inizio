@@ -83,23 +83,23 @@ Demo: https://inizio-corp.com/
 
 此 Figma 檔案主要作為完成畫面的整理與參考，並非前期設計切版依據。
 
-Figma 連結可參考：
+Figma 檔案可參考：
 
-- [Figma 設計參考檔](assets/wireframes/)
+- [Figma 設計參考檔PDF](assets/wireframes/)
 
 ## 畫面展示
 
 ### Desktop
 
-![Home Desktop](assets/screenshots/desktop/home.png)
+![Home Desktop](assets/screenshots/desktop/about/full-zh.png)
 
 ### Tablet
 
-![Home Tablet](assets/screenshots/tablet/home.png)
+![Home Tablet](assets/screenshots/tablet/about/full-zh.png)
 
 ### Mobile
 
-![Home Mobile](assets/screenshots/mobile/home.png)
+![Home Mobile](assets/screenshots/mobile/about/full-zh.png)
 
 更多完整頁面截圖可於 `assets/screenshots/` 資料夾中查看。
 
