@@ -4,7 +4,7 @@
 
 本專案為音樂公司官方網站之前端整理與作品集展示專案，原始內容來自 WordPress 網站，後續將頁面結構、圖片素材、HTML / CSS 與專案文件重新整理為較乾淨的靜態前端架構。
 
-網站內容包含 Home、About、Music Label、Artist、Service、Our Partner、Contact Us 等頁面，並整理多語言頁面、響應式畫面截圖與 Figma PDF 參考檔，作為前端作品集展示使用。
+網站內容包含 Home、About、Music Label、Artist、Service、Our Partner、Contact Us 等頁面，並整理多語言頁面、響應式畫面截圖與 Figma UI 參考檔，作為前端作品集展示使用。
 
 ## 線上展示
 
