@@ -8,7 +8,7 @@
 
 ## 線上展示
 
-https://inizio-corp.com/
+Demo: https://inizio-corp.com/
 
 ## 專案狀態
 
@@ -91,15 +91,15 @@ Figma 檔案可參考：
 
 ### Desktop
 
-![Home Desktop](assets/screenshots/desktop/about/full-zh.png)
+![Home Desktop](assets/screenshots/desktop/home/full-zh.png)
 
 ### Tablet
 
-![Home Tablet](assets/screenshots/tablet/about/full-zh.png)
+![Home Tablet](assets/screenshots/tablet/home/full-zh.png)
 
 ### Mobile
 
-![Home Mobile](assets/screenshots/mobile/about/full-zh.png)
+![Home Mobile](assets/screenshots/mobile/home/full-zh.png)
 
 更多完整頁面截圖可於 `assets/screenshots/` 資料夾中查看。
 
@@ -143,7 +143,7 @@ inizio/
 │       │   ├── our-partner/
 │       │   └── service/
 │       │
-│       └── wireframes/            # Wireframe 設計稿
+│   └── wireframes/                # Wireframe 設計稿
 │           ├── desktop.pdf
 │           ├── tablet.pdf
 │           └── mobile.pdf
@@ -200,7 +200,7 @@ inizio/
 ## 如何預覽專案
 
 此專案為由 WordPress 網站內容整理而成的靜態前端展示專案，可直接開啟 HTML 檔案進行預覽。
-接著可直接開啟 `index.html`，或使用 VS Code 的 Live Server 擴充套件瀏覽專案。
+接著可直接開啟 `src/html/home/home-zh.html`，或使用 VS Code 的 Live Server 擴充套件瀏覽專案。
 
 ## 專案優化紀錄
 
