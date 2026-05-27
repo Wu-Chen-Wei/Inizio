@@ -98,6 +98,11 @@ inizio/
 │   │
 │   ├── images/                    # 網站圖片素材
 │   │
+│   ├── wireframes/                # Figma 響應式畫面整理與 UI 參考檔
+│   │   ├── desktop.pdf
+│   │   ├── tablet.pdf
+│   │   └── mobile.pdf
+│   │
 │   └── screenshots/               # 專案畫面截圖
 │       │
 │       ├── desktop/               # Desktop 響應式截圖
@@ -118,25 +123,38 @@ inizio/
 │       │   ├── our-partner/
 │       │   └── service/
 │       │
-│       ├── mobile/                # Mobile 響應式截圖
-│       │   ├── about/
-│       │   ├── artist/
-│       │   ├── contact-us/
-│       │   ├── home/
-│       │   ├── music-label/
-│       │   ├── our-partner/
-│       │   └── service/
-│       │
-│       └── wireframes/            # Wireframe 設計稿
-│           ├── desktop.pdf
-│           ├── tablet.pdf
-│           └── mobile.pdf
+│       └── mobile/                # Mobile 響應式截圖
+│           ├── about/
+│           ├── artist/
+│           ├── contact-us/
+│           ├── home/
+│           ├── music-label/
+│           ├── our-partner/
+│           └── service/
 │
 ├── src/                           # 前端原始碼
 │   │
 │   ├── css/                       # CSS 樣式檔案
+│   │   ├── plover-animation.css
+│   │   ├── plover-elements-button.css
+│   │   ├── plover-theme-button.css
+│   │   ├── wp-core-columns.css
+│   │   ├── plover-dark-mode.css
+│   │   ├── plover-animation-flip.css
+│   │   ├── post-views-counter.css
+│   │   ├── magic-liquidizer-table.css
+│   │   ├── vexis-theme.css
+│   │   ├── wp-block-cover.css
+│   │   └── wp-block-gallery.css
 │   │
 │   ├── javascript/                # JavaScript 功能腳本
+│   │   ├── jquery.min.js
+│   │   ├── jquery-migrate.min.js
+│   │   ├── magic-liquidizer-table.min.js
+│   │   ├── plover-particles-effect.min.js
+│   │   ├── plover-scroll-observer.min.js
+│   │   ├── plover-entrance-animation.min.js
+│   │   └── wp-dom-ready.min.js
 │   │
 │   └── html/                      # HTML 頁面
 │       │
