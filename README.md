@@ -144,9 +144,9 @@ inizio/
 │       │   └── service/
 │       │
 │       └── wireframes/            # Wireframe 設計稿
-│           ├── Desktop.pdf
-│           ├── Tablet.pdf
-│           └── Mobile.pdf
+│           ├── desktop.pdf
+│           ├── tablet.pdf
+│           └── mobile.pdf
 │
 ├── src/                           # 前端原始碼
 │   │
